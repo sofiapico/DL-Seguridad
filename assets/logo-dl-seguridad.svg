@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 600'>
+  <rect width='600' height='600' fill='#072f63'/>
+  <polygon points='300,60 500,170 500,430 300,540 100,430 100,170' fill='none' stroke='#ffffff' stroke-width='28'/>
+  <text x='300' y='350' text-anchor='middle' font-size='220' font-family='Montserrat,Arial,sans-serif' font-weight='700' fill='#ffffff'>DL</text>
+</svg>
