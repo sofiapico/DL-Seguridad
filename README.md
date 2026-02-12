@@ -9,5 +9,5 @@ Landing estática de presentación para DL Seguridad Baires S.R.L.
 
 ## Contacto configurado
 
-- Email: `mjfernandez@araseguridadsrl.com.ar`
+- Email: `dlseguridad@gmail.com`
 - WhatsApp: `+54 11 6278-0665`
