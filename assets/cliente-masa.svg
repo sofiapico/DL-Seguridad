@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Cliente Masa">
+  <rect width="500" height="500" fill="#fff" />
+  <path d="M45 175 C130 120, 250 115, 430 150" fill="none" stroke="#6d2c91" stroke-width="10" stroke-linecap="round" />
+
+  <g transform="translate(75 230)">
+    <rect x="0" y="-24" width="22" height="48" rx="11" fill="#f2a63c" transform="rotate(-25)" />
+    <rect x="26" y="-24" width="22" height="48" rx="11" fill="#e6e6e6" transform="rotate(20)" />
+    <path d="M0 26 C18 38, 40 38, 56 25" fill="none" stroke="#6d2c91" stroke-width="5" />
+  </g>
+
+  <text x="300" y="255" text-anchor="middle" fill="#6d2c91" font-family="Montserrat, Arial, sans-serif" font-size="108" font-style="italic" font-weight="700">masa</text>
+  <text x="298" y="287" text-anchor="middle" fill="#5d5d5d" font-family="Montserrat, Arial, sans-serif" font-size="15" font-weight="500">Monroe Americana Sociedad Anónima</text>
+</svg>

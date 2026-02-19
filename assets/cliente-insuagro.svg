@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" role="img" aria-label="Cliente Insuagro">
+  <rect width="700" height="340" fill="#fff" />
+
+  <g transform="translate(74 97)">
+    <path d="M70 0 C120 28, 120 78, 70 108 C16 86, 9 31, 70 0 Z" fill="#0e5f90" />
+    <path d="M70 108 C120 78, 120 128, 70 152 C23 128, 18 85, 70 108 Z" fill="#5a8f24" />
+    <path d="M18 84 C44 92, 76 93, 115 80" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" />
+  </g>
+
+  <text x="260" y="190" fill="#0e5f90" font-family="Montserrat, Arial, sans-serif" font-size="90" font-weight="600" letter-spacing="1">INSU</text>
+  <text x="490" y="190" fill="#5a8f24" font-family="Montserrat, Arial, sans-serif" font-size="90" font-weight="600" letter-spacing="1">AGRO</text>
+</svg>
