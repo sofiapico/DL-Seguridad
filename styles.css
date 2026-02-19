@@ -64,6 +64,7 @@ img {
 .brand strong {
   display: block;
   letter-spacing: 0.2px;
+  white-space: nowrap;
 }
 
 .brand span {
